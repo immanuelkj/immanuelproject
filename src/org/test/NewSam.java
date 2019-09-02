@@ -1,11 +1,10 @@
 package org.test;
 
-public class Samplee {
+public class NewSam {
 
 	public static void main(String[] args) {
 		
-	 System.out.println("Immahuel");
-	
+		System.out.println("Branching");
 
 	}
 
